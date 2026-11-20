@@ -1,5 +1,5 @@
-# Student attendance and performance analysis
-##project overview
+# STUDENT ATTENDANCE AND PERFORMANCE ANALYSIS 
+## PROJECT OVERVIEW
 This project analyzes student academic journey using python and power BI.
 ## OBJECTIVE
 The objective of this project is to simplify the analysis of student attendance and academic
